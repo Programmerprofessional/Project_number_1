@@ -1,0 +1,2 @@
+print("Godbaye");
+print("finish");
